@@ -2,7 +2,6 @@
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application for booking bus tickets across major Indian cities.
 
-![App Screenshot](/screenshots/app-preview.png) *(Add your screenshot path here)*
 
 ## Features ✨
 
@@ -42,9 +41,3 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for booking bus
 - MongoDB (Local or Atlas URI)
 - Git
 
-### Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/bus-booking-app.git
-   cd bus-booking-app
